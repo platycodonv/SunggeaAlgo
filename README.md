@@ -11,4 +11,5 @@
 | 0102 | [bj1241](https://www.acmicpc.net/problem/16234)|인구 이동|  BFS,DFS |⭐⭐⭐|[🏃‍](202301/0102/bj16234_인구이동.md)  |
 | 0103 | [bj7785](https://www.acmicpc.net/problem/7785)|회사에 있는 사람| 문자열|⭐|[👨‍💼](202301/0103/bj7785_회사에있는사람.md) |
 | 0103 | [bj1181](https://www.acmicpc.net/problem/1181)|단어 정렬| 문자열|⭐|[🔤](202301/0103/bj1181_단어정렬.md) |
+| 0103 | [bj21609](https://www.acmicpc.net/problem/21609)|상어중학교|탐색, 구현, 시물레이션|⭐⭐⭐⭐|[🦈](202301/0103/bj21609_상어중학교.md) |
 
