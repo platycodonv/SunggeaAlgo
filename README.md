@@ -16,4 +16,5 @@
 | 0103 | [bj14716](https://www.acmicpc.net/problem/16236)|현수막|BFS,DFS|⭐|[🏁](202301/0103/bj14716_현수막.md) |
 | 0104 | [bj14716](https://www.acmicpc.net/problem/16236)|마법사 상어와 비바라기|구현, 시물레이션|⭐⭐|[🌧](202301/0104/bj21610_마법사상어와비바라기.md) |
 | 0104 | [bj1543](https://www.acmicpc.net/problem/1543)|문서 검색|문자열|⭐|[🆎](202301/0104/bj1543_문서검색.md) |
+| 0104 | [bj1764](https://www.acmicpc.net/problem/1764)|듣보잡||⭐|[❓](202301/0104/bj1764_듣보잡.md) |
 
