@@ -18,5 +18,5 @@
 | 0104 | [bj1543](https://www.acmicpc.net/problem/1543)|문서 검색|문자열|⭐|[🆎](202301/0104/bj1543_문서검색.md) |
 | 0104 | [bj1764](https://www.acmicpc.net/problem/1764)|듣보잡|문자열|⭐|[❓](202301/0104/bj1764_듣보잡.md) |
 | 0105 | [bj1920](https://www.acmicpc.net/problem/1920)|수찾기|이분탐색|⭐|[1️⃣](202301/0105/bj1920_수찾기.md) |
-| 0104 | [bj10816](https://www.acmicpc.net/problem/10816)|숫자카드2|이분탐색|⭐⭐|[2️⃣](202301/0105/bj10816_숫자카드2.md) |
+| 0105 | [bj10816](https://www.acmicpc.net/problem/10816)|숫자카드2|이분탐색|⭐⭐|[2️⃣](202301/0105/bj10816_숫자카드2.md) |
 
