@@ -21,4 +21,5 @@
 | 0105 | [bj10816](https://www.acmicpc.net/problem/10816)|숫자카드2|이분탐색|⭐⭐|[2️⃣](202301/0105/bj10816_숫자카드2.md) |
 | 0106 | [bj1245](https://www.acmicpc.net/problem/1245)|농장 관리|BFS,DFS|⭐⭐|[🌾](202301/0106/bj1245_농장관리.md) |
 | 0107 | [bj11656](https://www.acmicpc.net/problem/11656)|접미사 배열|문자열|⭐|[🔚](202301/0107/bj11656_.md) |
+| 0110 | [bj9935](https://www.acmicpc.net/problem/9935)|문자열 폭발|문자열|⭐⭐⭐|[💥](202301/0110/bj9935_문자열폭발.md) |
 
