@@ -22,4 +22,4 @@
 | 0106 | [bj1245](https://www.acmicpc.net/problem/1245)|농장 관리|BFS,DFS|⭐⭐|[🌾](202301/0106/bj1245_농장관리.md) |
 | 0107 | [bj11656](https://www.acmicpc.net/problem/11656)|접미사 배열|문자열|⭐|[🔚](202301/0107/bj11656_.md) |
 | 0110 | [bj9935](https://www.acmicpc.net/problem/9935)|문자열 폭발|문자열|⭐⭐⭐|[💥](202301/0110/bj9935_문자열폭발.md) |
-
+| 0114 | [bj1759](https://www.acmicpc.net/problem/1759)|암호만들기|백트래킹|⭐⭐|[❓](202301/0114/bj1759_.md) |
