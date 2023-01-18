@@ -23,4 +23,5 @@
 | 0107 | [bj11656](https://www.acmicpc.net/problem/11656)|접미사 배열|문자열|⭐|[🔚](202301/0107/bj11656_.md) |
 | 0110 | [bj9935](https://www.acmicpc.net/problem/9935)|문자열 폭발|문자열|⭐⭐⭐|[💥](202301/0110/bj9935_문자열폭발.md) |
 | 0114 | [bj1759](https://www.acmicpc.net/problem/1759)|암호만들기|백트래킹|⭐⭐|[❓](202301/0114/bj1759_암호만들기.md) |
-| 0116 | [bj2023](https://www.acmicpc.net/problem/2023)|신기한소수|백트래킹|⭐⭐|[✨](202301/0116/bj2023_.md) |
+| 0116 | [bj2023](https://www.acmicpc.net/problem/2023)|신기한소수|백트래킹|⭐⭐|[✨](202301/0116/bj2023_신기한소수.md) |
+| 0118 | [bj22251](https://www.acmicpc.net/problem/22251)|빌런호석|구현, 브루트포스|⭐⭐⭐|[✨](202301/0118/bj22251_.md) |
