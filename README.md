@@ -46,9 +46,10 @@
 | 0201 | [programmers Lv2](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|다리를지나는트럭|스택/큐|⭐⭐|[🚚](202302/0201/pg_다리를지나는트럭.md) |
 | 0203 | [bj1283](https://www.acmicpc.net/problem/1283)|단축키지정|문자열|⭐⭐|[🔠](202302/0203/bj1283_단축키지정.md) |
 | 0204 | [bj16939](https://www.acmicpc.net/problem/16939)|2*2*2큐브|구현|⭐⭐|[2️⃣](202302/0204/bj16939_2x2x2큐브.md) |
-| 0205 | [bj15661](https://www.acmicpc.net/problem/15661)|링크와스타트|백트래킹|⭐⭐⭐|[2️⃣](202302/0205/bj15661_링크와스타트.md) |
-| 0206 | [bj17143](https://www.acmicpc.net/problem/17143)|낚시왕|구현|⭐⭐⭐⭐⭐|[2️⃣](202302/0206/bj16939_낚시왕.md) |
+| 0205 | [bj15661](https://www.acmicpc.net/problem/15661)|링크와스타트|백트래킹|⭐⭐⭐|[🧑](202302/0205/bj15661_링크와스타트.md) |
+| 0206 | [bj17143](https://www.acmicpc.net/problem/17143)|낚시왕|구현|⭐⭐⭐⭐⭐|[🎣](202302/0206/bj16939_낚시왕.md) |
 | 0207 | [bj16987](https://www.acmicpc.net/problem/16987)|계란으로계란치기|백트래킹|⭐⭐|[🍳](202302/0207/bj16987_계란으로계란치기.md) |
+| 0208 | [bj1012](https://www.acmicpc.net/problem/1012)|유기농배추|BFS,DFS|⭐|[🥬](202302/0208/bj1012_유기농배추.md) |
 
 
 </div>
