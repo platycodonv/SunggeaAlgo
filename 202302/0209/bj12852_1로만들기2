@@ -1,0 +1,76 @@
+## bj12852_1로만들기2.md
+
+https://www.acmicpc.net/problem/12852
+
+---
+#### 알고리즘 : DP
+#### 시간제한 : 0.5초, 메모리 제한 : 512MB
+#### 시간 : 144ms, 메모리 : 18108KB
+---
+### 풀이 과정 : 
+1. 정수 X가 주어졌을때 다음과 같은 연산을 사용할수 있다.
+연산 1 - X가 3으로 나눠질 경우 3으로 나눈다.
+연산 2 - X가 2로 나눠질 경우 2로 나눈다.
+연산 3 - X-1
+2. DP(X)를 연산을 사용하는 최소 횟수라고 한다면 다음과 같은 관계를 생각해 볼 수 있다.
+DP(12) = DP(11)+1, DP(6)+1, DP(4)+1중에 최소값
+DP(10) = DP(9)+1, DP(5)+1 중에 최소값
+DP(7) = DP(6)+1
+에 따라서 DP배열 구성 
+3. X부터 1까지 DP(idx)를 만들 수 있는 전 단계의 DP값 중에 최소값을 탐색한다.
+4. idx 를 1까지 줄여가며 탐색하는 과정에 있는 idx를 출력
+
+### 배울점
+DP는 어려웡 
+----
+### Source
+```java
+public class bj12852_1로만들기2 {
+    static int n;
+    static int[] dp;
+
+    public static void main(String[] args) throws Exception {
+        init();
+        process();
+    }
+
+    static void process() {
+        StringBuilder sb = new StringBuilder();
+        dp[1] = 0;
+        for (int i = 2; i <= n; i++) {
+            dp[i] = dp[i - 1] + 1;
+            if (i % 3 == 0) dp[i] = Math.min(dp[i], dp[i / 3] + 1);
+            if (i % 2 == 0) dp[i] = Math.min(dp[i], dp[i / 2] + 1);
+        }
+        sb.append(dp[n]).append('\n');
+        int idx = n;
+        while (idx != 1) {
+            int temp = dp[idx - 1];
+            int next_idx = idx - 1;
+            if (idx % 2 == 0) {
+                if (temp > dp[idx / 2]) {
+                    temp = dp[idx / 2];
+                    next_idx = idx / 2;
+                }
+            }
+            if (idx % 3 == 0) {
+                if (temp > dp[idx / 3]) {
+                    temp = dp[idx / 3];
+                    next_idx = idx / 3;
+                }
+            }
+            sb.append(idx).append(' ');
+            idx = next_idx;
+        }
+        sb.append(1);
+        System.out.print(sb);
+    }
+
+    static void init() throws Exception {
+        System.setIn(new FileInputStream("res/input.txt"));
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        n = Integer.parseInt(br.readLine());
+        dp = new int[n + 1];
+    }
+}
+```
