@@ -1,0 +1,62 @@
+## bj16943_숫자재배치.md
+
+https://www.acmicpc.net/problem/16943
+
+---
+#### 알고리즘 : 백트래킹
+#### 시간제한 : 2초, 메모리 제한 : 512MB
+#### 시간 : 188ms, 메모리 : 14464KB
+---
+### 풀이 과정 : 
+1. 입력받은 A를 Char 형 배열로 저장 후 A의 각자리수를 가지고 순열을 만든다.
+2. 만들어지 수가 처음 주어진 A와 같은 자리수가 아닐 경우 return(예) A : 1234일경우 1000보다 작으면 x
+3. 이렇게 하면 앞이 0으로 구성된 경우를 처리할 수 있다.
+4. 이면서 B보다 작을 경우 answer를 갱신
+
+### 배울점
+시간을 더 줄일 수 있는 방법이 없을까 고민해봐야겠다.
+----
+### Source
+```java
+public class bj16943_숫자재배치{
+    static String A;
+    static int B;
+    static char[] arr;
+    static boolean[] visited;
+    static int min;
+    static int answer = -1;
+
+    public static void main(String[] args) throws Exception {
+        init();
+        dfs(0, 0);
+        System.out.print(answer);
+    }
+
+    static void init() throws Exception {
+        System.setIn(new FileInputStream("res/input.txt"));
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        A = st.nextToken();
+        B = Integer.parseInt(st.nextToken());
+        arr = A.toCharArray();
+        visited = new boolean[arr.length];
+        min = (int) Math.pow(10, arr.length-1);
+    }
+
+    static void dfs(int k, int number) {
+        if (k == arr.length) {
+            if(number < min || number > B) return;
+            answer = Math.max(answer,number);
+            return;
+        }
+        number *= 10;
+        for (int i = 0; i < arr.length; i++) {
+            if (!visited[i]) {
+                visited[i] = true;
+                dfs(k + 1, (number)+(arr[i]-'0'));
+                visited[i] = false;
+            }
+        }
+    }
+}
+```
