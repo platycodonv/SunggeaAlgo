@@ -51,6 +51,7 @@
 | 0207 | [bj16987](https://www.acmicpc.net/problem/16987)|계란으로계란치기|백트래킹|⭐⭐|[🍳](202302/0207/bj16987_계란으로계란치기.md) |
 | 0208 | [bj1012](https://www.acmicpc.net/problem/1012)|유기농배추|BFS,DFS|⭐|[🥬](202302/0208/bj1012_유기농배추.md) |
 | 0209 | [bj1463](https://www.acmicpc.net/problem/1463)|1로만들기2|DP|⭐⭐|[1️⃣](202302/0209/bj1463_1로만들기2.md) |
+| 0209 | [bj16943](https://www.acmicpc.net/problem/16943)|숫자재배치|백트래킹|⭐⭐|[💫](202302/0209/bj16943_숫자재배치.md) |
 
 
 </div>
