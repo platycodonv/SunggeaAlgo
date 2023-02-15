@@ -61,6 +61,7 @@
 | 0213 | [bj18429](https://www.acmicpc.net/problem/18429)|근손실|브루트포스, 백트래킹|⭐|[🦾](202302/0213/bj18429_근손실.md) |
 | 0214 | [bj14940](https://www.acmicpc.net/problem/14940)|쉬운최단거리|BFS|⭐|[😋](202302/0214/bj14940_쉬운최단거리.md) |
 | 0215 | [bj5052](https://www.acmicpc.net/problem/5052)|전화번호 목록|문자열|⭐⭐⭐|[☎](202302/0215/bj5052_전화번호목록.md) |
+| 0215 | [bj13417](https://www.acmicpc.net/problem/13417)|카드문자열|문자열|⭐⭐|[🃏](202302/0215/bj13417_카드문자열.md) |
 
 </div>
 </details>
