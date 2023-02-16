@@ -63,7 +63,7 @@
 | 0215 | [bj5052](https://www.acmicpc.net/problem/5052)|전화번호 목록|문자열|⭐⭐⭐|[☎](202302/0215/bj5052_전화번호목록.md) |
 | 0215 | [bj13417](https://www.acmicpc.net/problem/13417)|카드문자열|문자열|⭐⭐|[🃏](202302/0215/bj13417_카드문자열.md) |
 | 0216 | [pg72411](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|메뉴리뉴얼|구현|⭐⭐⭐|[💫](202302/0216/pg72411_메뉴리뉴얼.md) |
-| 0217 | [bj9207](https://www.acmicpc.net/problem/9207)|페그 솔리테어||⭐⭐⭐|[🕹](202302/0217/bj9207_페그솔리테어.md) |
+| 0217 | [bj9207](https://www.acmicpc.net/problem/9207)|페그 솔리테어|브루트포스, 백트래킹|⭐⭐⭐|[🕹](202302/0217/bj9207_페그솔리테어.md) |
 
 </div>
 </details>
