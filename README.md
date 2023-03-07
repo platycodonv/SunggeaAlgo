@@ -80,6 +80,7 @@
 | 0301 | [bj3055](https://www.acmicpc.net/problem/3055)|탈출|BFS|⭐⭐⭐|[✈](202303/0301/bj3055_탈출.md) |
 | 0302 | [bj15787](https://www.acmicpc.net/problem/15787)|기차가어둠을헤치고은하수를|구현|⭐⭐|[🚅](202303/0302/bj15787_기차가어둠을헤치고은하수를.md) |
 | 0306 | [bj1697](https://www.acmicpc.net/problem/1697)|숨바꼭질|BFS|⭐|[😋](202303/0306/bj1697_숨바꼭질.md) |
+| 0307 | [bj17836](https://www.acmicpc.net/problem/17836)|공주님을구해라|BFS|⭐⭐⭐|[👸](202303/0307/bj17836_.md) |
 
 
 
