@@ -83,6 +83,7 @@
 | 0307 | [bj17836](https://www.acmicpc.net/problem/17836)|공주님을구해라|BFS|⭐⭐⭐|[👸](202303/0307/bj17836_공주님을구해라.md) |
 | 0308 | [bj16120](https://www.acmicpc.net/problem/16120)|PPAP|문자열|⭐⭐|[🅿](202303/0308/bj16120_PPAP.md) |
 | 0309 | [bj18405](https://www.acmicpc.net/problem/18405)|경쟁적전염|BFS|⭐⭐⭐|[☢](202303/0309/bj184050_경쟁적전염.md) |
+| 0310 | [bj1769](https://www.acmicpc.net/problem/1769)|3의배수|문자열|⭐|[3️⃣](202303/0310/bj1769_3.md) |
 
 
 
