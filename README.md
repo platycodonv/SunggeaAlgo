@@ -84,7 +84,8 @@
 | 0308 | [bj16120](https://www.acmicpc.net/problem/16120)|PPAP|문자열|⭐⭐|[🅿](202303/0308/bj16120_PPAP.md) |
 | 0309 | [bj18405](https://www.acmicpc.net/problem/18405)|경쟁적전염|BFS|⭐⭐⭐|[☢](202303/0309/bj184050_경쟁적전염.md) |
 | 0310 | [bj1769](https://www.acmicpc.net/problem/1769)|3의배수|문자열|⭐|[3️⃣](202303/0310/bj1769_3의배수.md) |
-| 0313 | [bj5555](https://www.acmicpc.net/problem/5555)|반지|문자열|⭐|[3💍](202303/0313/bj5555_반.md) |
+| 0313 | [bj5555](https://www.acmicpc.net/problem/5555)|반지|문자열|⭐|[💍](202303/0313/bj5555_반지.md) |
+| 0314 | [bj1431](https://www.acmicpc.net/problem/1431)|시리얼번호|문자열|⭐|[🔠](202303/0314/bj1431_시리얼번호.md) |
 
 
 
