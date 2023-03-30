@@ -96,6 +96,7 @@
 | 0322 | [bj20058](https://www.acmicpc.net/problem/20058)|마법사상어와파이어스톰|시물레이션,BFS|⭐⭐⭐⭐|[🔥](202303/0322/bj20058_마법사상어와파이어스톰.md) |
 | 0329 | [pg17679](https://school.programmers.co.kr/learn/courses/30/lessons/17679?language=java) |프렌즈4블록|구현|⭐⭐|[⭐](202303/0329/pg17679_프렌즈4블록.md) |
 | 0330 | [pg12981](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |영어끝말잇기|문자열|⭐⭐|[🅰](202303/0330/pg12981_영어끝말잇기.md) |
+| 0331 | [pg17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |캐시|큐|⭐⭐|[🖥](202303/0331/pg17680_.md) |
 
 </div>
 </details>
